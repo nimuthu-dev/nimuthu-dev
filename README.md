@@ -1,18 +1,18 @@
 
-# Hi there 👋, I'm Nimuthu Pathirathne
+# Hi there 👋 , I'm Nimuthu Pathirathne
 
 🎓 Computer Science Undergraduate
 
-💡 Passionate about Software Development, Artificial Intelligence, and Machine Learning.
+Passionate about Software Development, Artificial Intelligence, and Machine Learning.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Undergraduate
-- 🌱 Currently learning and building with modern technologies
+-    Currently learning and building with modern technologies
 - 💻 Interested in Full-Stack Development
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+-    Exploring Artificial Intelligence & Machine Learning
 - 📚 Continuously improving my problem-solving and programming skills
 
 ---
