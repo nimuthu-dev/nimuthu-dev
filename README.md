@@ -1,79 +1,162 @@
-<h1 align="center">Hi 👋, I'm Nimuthu Pathirathne</h1>
-
 <p align="center">
-  🎓 Computer Science Undergraduate <br>
-  💻 Software Developer <br>
-  🤖 AI & Machine Learning Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Nimuthu%20Pathirathne&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Undergraduate%20|%20AI%20%26%20ML%20Enthusiast&descAlignY=60" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=700&lines=Computer+Science+Undergraduate;Java+Developer;Full-Stack+Web+Development;Artificial+Intelligence+%26+Machine+Learning;Always+Learning+New+Technologies" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Undergraduate
-- 💻 Building projects with Java, JavaScript, HTML, and CSS
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌐 Interested in Full-Stack Development
-- 📚 Constantly learning new technologies
-- 🎯 Focused on creating impactful software solutions
-
----
-
-## 🛠️ Tech Stack
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode" />
+  <a href="https://www.linkedin.com/in/nimuthu-pathirathne-6853a9365">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 About Me
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nimuthu-dev&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimuthu-dev&layout=compact" />
-</p>
+```yaml
+Name: Nimuthu Pathirathne
+Role: Computer Science Undergraduate
 
----
+Interests:
+  - Software Engineering
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Open Source
 
-## 🌱 Currently Learning
+Currently Learning:
+  - Advanced Java
+  - JavaScript
+  - AI & Machine Learning
+  - Modern Web Development
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ☕ Advanced Java
-- 🌐 Modern Web Development
-- ⚡ Software Engineering Principles
-
----
-
-## 🎯 Interests
-
-```text
-💻 Software Development
-🌐 Full-Stack Development
-🤖 Artificial Intelligence
-🧠 Machine Learning
-🚀 Emerging Technologies
+Goal:
+  - Become a Professional Software Engineer
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Tech Stack
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nimuthu-pathirathne-6853a9365">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,react,nodejs,mysql,git,github,vscode" />
 </p>
 
-📧 Email: nimuthu.rp@gmail.com
+---
+
+# 📚 Learning Progress
+
+```text
+Java            █████████░ 90%
+JavaScript      ████████░░ 80%
+HTML            ██████████ 95%
+CSS             ██████████ 95%
+Git & GitHub    ████████░░ 80%
+AI / ML         ██████░░░░ 60%
+React           █████░░░░░ 50%
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nimuthu-dev&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimuthu-dev&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimuthu-dev" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimuthu-dev" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nimuthu-dev&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+# 🎯 Current Roadmap
+
+```mermaid
+graph LR
+
+A[Java] --> B[Advanced OOP]
+B --> C[Spring Boot]
+C --> D[Full Stack Development]
+
+E[JavaScript] --> F[React]
+F --> G[Modern Web Apps]
+
+H[AI & ML] --> I[Machine Learning]
+I --> J[Deep Learning]
+```
+
+---
+
+# 🚀 Featured Goals for 2026
+
+- Build Full-Stack Projects
+- Learn Spring Boot
+- Master Git & GitHub
+- Explore Deep Learning
+- Contribute to Open Source
+- Improve Data Structures & Algorithms
+
+---
+
+# 💭 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I enjoy building software and web applications
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- ☕ Java is one of my favorite technologies
+- 🌱 I believe in continuous learning
+- 🚀 Always working on improving my skills
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimuthu-pathirathne-6853a9365">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+📧 nimuthu.rp@gmail.com
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nimuthu-dev" />
+</p>
 
 ---
 
 <p align="center">
-✨ <i>Building skills today for the technology of tomorrow.</i> ✨
+✨ Building skills today for the technology of tomorrow ✨
 </p>
